@@ -1,6 +1,7 @@
 ---
 permalink: /portfolio.html
 layout: default
+title: portfolio
 ---
 <section id = "portfolio">
 						<div class="page-eli">
