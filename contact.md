@@ -1,9 +1,5 @@
 ---
 layout: default
 permalink: /contact.html
-title: Contact
+title: contact
 ---
-<div class="page-eli">
-
-	Testing Testing
-</div>

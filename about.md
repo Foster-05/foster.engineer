@@ -1,11 +1,5 @@
 ---
 permalink: /about.html
 layout: default
-title: Landing Page
-subTitle: Test
+title: about
 ---
-<div class="page-eli">
-About me ts
-
-</div>
-

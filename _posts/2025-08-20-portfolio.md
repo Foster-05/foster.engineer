@@ -2,8 +2,9 @@
 layout: default
 img: screenshot.png
 category: portfolio
-title: About Me
+title: Portfolio
 description: |
+large: False
 ---
 
 

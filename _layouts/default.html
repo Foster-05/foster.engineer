@@ -5,7 +5,13 @@
 	<body>
 		{% include header.html %}
 		{{ content }}
-		{% include page_content.html %}
+
+		{% if {{ post.large }}  == True  %}
+			{% include page_content_large.html %}
+		{% else %}
+			{% include page_content.html %}
+		{% endif %}
+	
 		{% include footer.html %}
 		{% include js.html %}
 	</body>
