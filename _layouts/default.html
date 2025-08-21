@@ -5,13 +5,11 @@
 	<body>
 		{% include header.html %}
 		{{ content }}
-
-		{% if page.title == "about" or page.title == "contact" %}
+		{% if page.title == "About Me" or page.title == "Contact Information" %}
 			{% include large_page_content.html %}
 		{% else %}
 			{% include page_content.html %}
 		{% endif %}
-
 		{% include footer.html %}
 		{% include js.html %}
 	</body>

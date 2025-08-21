@@ -27,7 +27,7 @@ h6 {
 }
 
 .intro-header {
-    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-top: 250px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
@@ -97,11 +97,11 @@ h6 {
 }
 
 .content-section-a {
-    padding: 100px 0;
+    padding: 125px 0;
     background-color: #f8f8f8;
 }
 .content-section-a-alt {
-   padding: 100px 0;
+   padding: 125px 0;
    background-color: #e7e7e7;
 }
 
@@ -112,7 +112,7 @@ h6 {
 }
 
 .section-heading {
-    margin-bottom: 100px;
+    margin-bottom: 20px;
 }
 
 .section-heading-spacer {
