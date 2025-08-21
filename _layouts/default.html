@@ -6,12 +6,12 @@
 		{% include header.html %}
 		{{ content }}
 
-		{% if {{ post.large }}  == True  %}
-			{% include page_content_large.html %}
+		{% if page.title == "about" or page.title == "contact" %}
+			{% include large_page_content.html %}
 		{% else %}
 			{% include page_content.html %}
 		{% endif %}
-	
+
 		{% include footer.html %}
 		{% include js.html %}
 	</body>
