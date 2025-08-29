@@ -6,7 +6,7 @@ img3: portalbox/KiCad.png
 img4: portalbox/portal7.PNG
 img5: portalbox/portal28.PNG
 category: portfolio
-title: Portfolio
+title: PortalBox
 description: |
 ---
 
