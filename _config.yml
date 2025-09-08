@@ -8,7 +8,7 @@ email: elijam124@gmail.com
 author: Eli Foster
 description: > # "Write an awesome description for your new site here. 
   Portfolio website for Eli Foster, Electrical Engineer based out of Bucknell University.
-credits: This site was made using Jekyll, a Github plugin.
+credits: This site was written in HTML from the command line. CSS was taken from Jekyll, a Github plugin.
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
