@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+	<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Portfolio website for Eli Foster, Electrical Engineer based out of Bucknell University.
+">
+    <meta name="author" content="Eli Foster">
+
+    <title>PortalBox</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/landing-page.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+	<body>
+		<!-- Navigation -->
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand page-scroll" href="index.html">Eli Foster</a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+		<li>
+			<a href="index.html">Home</a>
+		</li>
+		<li>
+			<a href="portfolio.html">Portfolio</a>
+		</li>  
+            	<li>
+                    <a href="about.html">About</a>
+                </li>            
+                <li>
+                    <a href="contact.html">Contact</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>
+
+
+		<p>The Portalbox is an open-source makerspace management project. It originated at Bucknell University and intends to spread worldwide, allowing makerspaces to control their
+equipment and their users as they see fit. The Portalbox focuses on using interlocks to control power to equipment, such as 3D printers or laser cutters, based on the RFID
+cards that each student possesses. I had the honor to work on v5 of the Portalbox over the summer of 2025.</p>
+
+<p>Our team consisted of myself, <a href="https://www.linkedin.com/in/aiden-cherniske/">Aiden Cherniske</a>, a Computer Engineering major in the Class of 2027,
+and our makerspace director Matt Lamparter (<strong>mlampart@bucknell.edu</strong>) overseeing. Some of our goals for our new version of the Portalbox included shrinking the physical
+footprint, saving cost on manufacturing each box, changing components for clarity and ease of use, and overall making the Portalbox more complete and consistent as a
+product. We accomplished all of these goals, shrinking the board area by roughly 50%, switching several components to save on manufacturing cost and increase component
+reliability, and creating a cleaner case and UI for users to interact with. The Finite State Machine running the Portalbox was also significantly improved by our resident
+coder, and rethought to allow for more hardware options and reduce processing time.</p>
+
+<p>Part of my work on this project included completely redesigning the schematic and PCB for the Portalbox, taking what the Senior Design team before us left and updating 
+components for reliability and cost. I was able to create a more efficient layout that only required 12cm by 8cm of board space, significantly shrinking the layout compared
+to previous iterations. I also created a new modular case design that allows for both laser-cut or 3D printed components. This allows as many makerspaces as possible to be
+able to produce cases in-house, significantly easing the requirements to create a Portalbox. It also allows others to design and test their own case components, in the spirit
+of the open-source nature of the project. All KiCad and SOLIDWORKS files are available on our public GitHub repo.</p>
+
+<p>The time I spent (and continue to spend) on the Portalbox have greatly improved my skills and interest in the Embedded Hardware field~ I interacted with several new-to-me
+technologies and significantly improved my intuition and skills in circuit design. Creating more than six revisions of the board allowed me to fully understand the board’s
+behavior, as well as debug and improve my layout and routing in between each production. We ended up producing and populating three of our revisions before reaching a 
+production model.</p>
+
+<p>I’m so thankful for my time working on the project, and am looking forward to seeing the project evolve and grow in the future!</p>
+
+		
+			<section id="services">
+<!-- Page Content -->
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+</section>
+
+		
+		<!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <ul class="list-inline">
+                    <li>
+                        <a href="index.html">Home</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>
+			<li>
+				<a href="portfolio.html">Portfolio</a>
+			</li>
+			<li class="footer-menu-divider">&sdot;</li>
+                    <li>
+                        <a href="about.html">About</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>
+                    <li>
+                        <a href="contact.html">Contact</a>
+                    </li>
+                </ul>
+                <p class="copyright text-muted small"></p>
+            </div>
+            <div class="col-md-4">
+                This site was written in nano using HTML. CSS was taken from Jekyll, a Github plugin.
+            </div>
+        </div>
+    </div>
+</footer>
+
+		<!-- jQuery Version 1.11.0 -->
+<script src="js/jquery-1.11.0.js"></script>
+
+<!-- Plugin JavaScript -->
+    <script src="js/jquery.easing.min.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="js/bootstrap.min.js"></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="js/landing-page.js"></script>
+
+	</body>
+</html>
