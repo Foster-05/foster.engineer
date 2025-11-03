@@ -21,7 +21,10 @@ substrate materials for IC production later on. This venture into VLSI and IC
 design is super exciting for me, as it's something not really ever covered
 by my university or offered as a concentration or course of study. This opportunity
 to join Professor Kabalan in designing an IC for production was therefore
-very exciting and one I eagerly jumped at. Designing for her allowed me to
+very exciting and one I eagerly jumped at. While this component is extremely 
+simple and was designed fairly quickly, it's an important step towards 
+more complex design, even dipping into the VLSI range, despite this being simply 
+integrated design, not very-large-scale integrated design. Designing for her allowed me to
 not only familiarize myself with KLayout, but gain experience in precise design 
 for applications with tight tolerances, learn about VLSI-specific design, and 
 assist in creation of a product that will hopefully assist their research team
