@@ -1,9 +1,8 @@
 <section id="services">
 <!-- Page Content -->
 {% for post in site.posts %}
-  {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
   {% if post.category == page.title %}
-    {% if thecycle == 'odd' %}
+    {% if post.color == 'odd' %}
     <div class="content-section-a">
 
         <div class="container">
@@ -86,3 +85,8 @@
     {% endif %}
 {% endfor %}
 </section>
+
+
+
+
+

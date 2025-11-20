@@ -1,12 +1,10 @@
 ---
 layout: default
+color: odd
 title: Biosensor Research
 category: portfolio
 img1: overall_klayout.png
 img2: zooomed_klayout.png
-img3:
-img4:
-img5:
 description: |
 ---
 During fall of 2025 I had the exciting opportunity to work with one of our 
