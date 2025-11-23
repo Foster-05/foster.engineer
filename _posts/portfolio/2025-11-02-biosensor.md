@@ -2,7 +2,7 @@
 layout: default
 color: odd
 title: Biosensor Research
-category: portfolio
+category: Portfolio
 img1: overall_klayout.png
 img2: zooomed_klayout.png
 description: |

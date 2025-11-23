@@ -1,7 +1,7 @@
 ---
 layout: default
-color:
-title: Refusal to Engage
+color: odd
+title: Revelation
 category: ECEG 301
 img1:
 img2:
