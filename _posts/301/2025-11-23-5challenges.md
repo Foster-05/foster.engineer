@@ -3,7 +3,7 @@ layout: default
 color:
 title: Challenges
 category: ECEG 301
-img1: drk.png
+img1: 301/drk.png
 img2:
 img3:
 img4:

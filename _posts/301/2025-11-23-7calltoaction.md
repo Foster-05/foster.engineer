@@ -3,7 +3,7 @@ layout: default
 color:
 title: Call to Action
 category: ECEG 301
-img1: mmr.jpeg
+img1: 301/mmr.jpeg
 img2:
 img3:
 img4:
