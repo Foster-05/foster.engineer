@@ -24,6 +24,6 @@ the scope of our problem and further explore it as applicable to us.
 
 Personally, I found the entirety of Goal #3 interesting as it was certainly
 something new for me: my experiences so far have been very far from the medical
-industry, even the MedTech industry. I found it engaging to have a new challenge
+industry, even the kind of related to ECE MedTech industry. I found it engaging to have a new challenge
 in an area I hadn't previously considered, and was looking forward to finding
 a way to make meaningful change in real people's lives.
