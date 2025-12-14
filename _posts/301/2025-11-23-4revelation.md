@@ -5,7 +5,7 @@ title: Revelation
 category: ECEG 301
 img1: 301/post.png
 img2: 301/pre.png
-img3:
+img3: 301/loop.jpg
 img4:
 img5:
 description: |

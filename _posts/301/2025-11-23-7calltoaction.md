@@ -4,7 +4,7 @@ color:
 title: Call to Action
 category: ECEG 301
 img1: 301/mmr.jpeg
-img2:
+img2: 301/unsdg.png
 img3:
 img4:
 img5:

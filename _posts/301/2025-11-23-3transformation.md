@@ -3,7 +3,7 @@ layout: default
 color:
 title: Transformation
 category: ECEG 301
-img1:
+img1: 301/skills.png
 img2:
 img3:
 img4:
