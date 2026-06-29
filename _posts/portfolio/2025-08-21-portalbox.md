@@ -33,4 +33,5 @@ technologies and significantly improved my intuition and skills in circuit desig
 behavior, as well as debug and improve my layout and routing in between each production. We ended up producing and populating three of our revisions before reaching a 
 production model.
 
+More information can be found in [this article from Bucknell](https://www.bucknell.edu/news/engineering-access-how-bucknell-students-created-makerspace-solution).
 I'm so thankful for my time working on the project, and am looking forward to seeing the project evolve and grow in the future!
