@@ -1,0 +1,18 @@
+---
+layout: default
+color: 
+title: EOS Energy
+category: Portfolio
+img1: eos.jpg
+description: |
+---
+In the summer of 2026 I had the opportunity to intern with EOS
+Energy in Edison, NJ. As an electrical engineering intern, I was able to learn
+so much from my mentors, especially about PCB schematic capture, troubleshooting,
+and verification. I also had the chance to help bring up new designs into production
+and assist in design decisions, specifically in creepage and clearance calculations
+and considerations for effective and reliable PCB design dealing with up to a kilovolt
+actively running through the board. I'm incredibly thankful for this opportunity and
+would like to extend a special thanks to Joe Heitmann and Tim Eames for mentorship
+during this time.
+---
