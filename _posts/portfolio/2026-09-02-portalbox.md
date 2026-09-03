@@ -2,7 +2,7 @@
 layout: default
 img1: portalbox/portal4.PNG
 img2: portalbox/BucknellAd.png
-img3: portalbox/Portal5-1.png
+img3: portalbox/portalpcb.png
 img4: portalbox/portal7.PNG
 img5: portalbox/portal28.PNG
 category: Portfolio
@@ -11,7 +11,7 @@ description: |
 ---
 
 
-The Portalbox is an open-source makerspace management project. It originated at Bucknell University and intends to spread worldwide, allowing makerspaces to control their
+[The Portalbox](https://github.com/Foster-05/PortalBox-5.1) is an open-source makerspace management project. It originated at Bucknell University and intends to spread worldwide, allowing makerspaces to control their
 equipment and their users as they see fit. The Portalbox focuses on using interlocks to control power to equipment, such as 3D printers or laser cutters, based on the RFID
 cards that each student possesses. I had the honor to work on v5 of the Portalbox over the summer of 2025.
 
