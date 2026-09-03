@@ -4,7 +4,7 @@ img1: portalbox/portal4.PNG
 img2: portalbox/BucknellAd.png
 img3: portalbox/portalpcb.png
 img4: portalbox/portal7.PNG
-img5: portalbox/portal28.PNG
+img5: portalbox/portal.jpg
 category: Portfolio
 title: PortalBox
 description: |
